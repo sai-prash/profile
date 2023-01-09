@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer with 4+ years of experience.<br>Graduate Student at University at Buffalo <br>| Ex - SDE Intern @Intel | Ex - Member of the Technical Staff at Zoho
+Software Developer with 4+ years of experience in Java. Golang, Python and JS.<br>Graduate Student at University at Buffalo <br>| Ex - SDE Intern @Intel | Ex - Member of the Technical Staff at Zoho
 
 
 ## 🌐 Socials:
